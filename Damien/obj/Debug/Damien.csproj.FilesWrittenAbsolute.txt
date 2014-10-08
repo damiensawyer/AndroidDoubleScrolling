@@ -1,0 +1,15 @@
+/Users/damiensawyer/Downloads/Damien/Damien/obj/Debug/MonoAndroid,Version=v4.1.AssemblyAttribute.cs
+/Users/damiensawyer/Downloads/Damien/Damien/bin/Debug/Damien.dll.mdb
+/Users/damiensawyer/Downloads/Damien/Damien/bin/Debug/Damien.dll
+/Users/damiensawyer/Downloads/Damien/Damien/bin/Debug/Damien.Damien.apk
+/Users/damiensawyer/Downloads/Damien/Damien/obj/Debug/android/bin/Damien.Damien.apk
+/Users/damiensawyer/Downloads/Damien/Damien/obj/Debug/res/layout/main.xml
+/Users/damiensawyer/Downloads/Damien/Damien/obj/Debug/res/values/strings.xml
+/Users/damiensawyer/Downloads/Damien/Damien/obj/Debug/res/drawable/icon.png
+/Users/damiensawyer/Downloads/Damien/Damien/obj/Debug/res/layout/hscrollview.xml
+/Users/damiensawyer/Downloads/Damien/Damien/obj/Debug/res/drawable/xicon50.png
+/Users/damiensawyer/Downloads/Damien/Damien/obj/Debug/R.cs.flag
+/Users/damiensawyer/Downloads/Damien/Damien/bin/Debug/Damien.Damien-Signed.apk
+/Users/damiensawyer/Downloads/Damien/Damien/obj/Debug/uploadflags.txt
+/Users/damiensawyer/Downloads/Damien/Damien/obj/Debug/Damien.dll
+/Users/damiensawyer/Downloads/Damien/Damien/obj/Debug/Damien.dll.mdb
